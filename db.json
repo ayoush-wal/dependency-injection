@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "username": "johndoe",
+        "projects": [
+          {
+            "id": 1,
+            "name": "Project A",
+            "dateCreated": "2024-01-01",
+            "taskLists": [
+              {
+                "id": 1,
+                "name": "Task List 1",
+                "dateCreated": "2024-01-02"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
